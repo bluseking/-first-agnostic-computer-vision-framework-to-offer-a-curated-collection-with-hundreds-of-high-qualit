@@ -10,6 +10,7 @@ __all__ = [
     "draw_mask",
     "draw_keypoints",
     "draw_segmentation_mask",
+    "draw_label",
 ]
 
 from icevision.imports import *
